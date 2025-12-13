@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "This repository is an experimental project by oshinnayak for experimentation and learning. It contains a personal/static website used to try ideas, experiments, and prototypes.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshinnayak/mynewwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oshinnayak/mynewwebsite/issues"
+  },
+  "homepage": "https://github.com/oshinnayak/mynewwebsite#readme",
+  "devDependencies": {
+    "playwright": "^1.57.0"
+  }
+}
